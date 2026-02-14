@@ -1,0 +1,33 @@
+# FastAPI and server
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+python-multipart>=0.0.6
+
+# Database
+sqlalchemy>=2.0.25
+
+# LangChain and LLM
+langchain>=0.1.5
+langchain-google-genai>=0.0.6
+google-generativeai>=0.3.2
+langchain-groq>=0.1.0
+
+# Vector store
+chromadb>=0.4.22
+sentence-transformers>=2.2.0
+
+# PDF processing
+pypdf2>=3.0.1
+
+# Utilities
+pydantic>=2.10.0
+pydantic-settings>=2.1.0
+python-dotenv>=1.0.0
+
+# Streamlit UI
+streamlit>=1.31.0
+
+# Testing
+pytest>=7.4.4
+pytest-asyncio>=0.23.3
+httpx>=0.26.0
