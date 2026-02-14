@@ -40,7 +40,6 @@ bot-gpt/
 │   └── main.py                # FastAPI app
 ├── tests/
 │   └── test_api.py            # Unit tests
-├── docs/                       # Architecture documentation
 ├── data/                       # SQLite DB, uploads, ChromaDB
 ├── streamlit_app.py           # Streamlit UI
 ├── requirements.txt           # Python dependencies
